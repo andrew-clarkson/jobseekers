@@ -1,13 +1,14 @@
 # jobseekers
-add your name to be tagged in linkedin posts with junior job postings!
 
-(Still working out how to make this easy for people on linkedin, copy/paste does not tag people and I know how big this list is going to get)
+add your name to be tagged in LinkedIn posts with junior job postings!
+
+(Still working out how to make this easy for people on LinkedIn, copy/paste does not tag people and I know how big this list is going to get)
 
 ###How to get on the list:
 
 Make a PR on this README file, add your name exactly how you would be tagged on LinkedIn.
 
-For example, I would add mine as *@Andrew Clarkson*
+For example, I would add mine as _@Andrew Clarkson_
 
 If you have an emoji, make sure it is there.
 
@@ -19,3 +20,4 @@ LIST STARTS BELOW
 
 @Andrew Clarkson
 @Anna Miller
+@Alison Childers
